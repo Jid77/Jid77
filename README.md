@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Jidan 
+I’m interested in technology and design
+
+[Find ME]
+
 <!--
 **Jid77/Jid77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
