@@ -3,11 +3,8 @@
 I'm Jidan 
 I’m interested in technology and design
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="-" src="/Jid77/wp11031139-spy-x-family-anya-wallpapers.jpg">
-</picture>
+![wp11031139-spy-x-family-anya-wallpapers](https://user-images.githubusercontent.com/72590104/204083084-51c51c46-f367-426f-ad13-7f23882076d7.jpg)
+
 
 [Find ME]
 
