@@ -6,7 +6,7 @@ I’m interested in technology and design
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="-" src="https://wallpapers.com/wallpapers/cute-anya-profile-picture-5zlwyudavqxn2l52.html?embed=true">
+ <img alt="-" src="/Jid77/wp11031139-spy-x-family-anya-wallpapers.jpg">
 </picture>
 
 [Find ME]
