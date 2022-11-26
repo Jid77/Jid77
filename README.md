@@ -3,7 +3,7 @@
 I'm Jidan 
 I’m interested in technology and design
 
-![wp11031139-spy-x-family-anya-wallpapers](https://user-images.githubusercontent.com/72590104/204083084-51c51c46-f367-426f-ad13-7f23882076d7.jpg)
+![anya1](https://user-images.githubusercontent.com/72590104/204083210-7b293e44-8c63-4324-9870-c171f5e55f23.jpg)
 
 
 [Find ME]
