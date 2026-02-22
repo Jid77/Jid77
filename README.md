@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Jidan 
-I’m interested in technology and design
+interested in technology
 
 ![anya1](https://user-images.githubusercontent.com/72590104/204083210-7b293e44-8c63-4324-9870-c171f5e55f23.jpg)
 
